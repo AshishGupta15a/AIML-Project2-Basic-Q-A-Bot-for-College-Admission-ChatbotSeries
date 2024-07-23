@@ -1,6 +1,1 @@
-COLLEGE ADMISSION BOT 
-create your own environment then install the followings :-
-pip install torch 
-pip install tensorflow  #make sure u downloaded the appropriate driver 
-pipn install random 
-pip install json 
+this is the college admission bot and help in giving the all the questions and answers from the user and answers them accordingly to the user.
